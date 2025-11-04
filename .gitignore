@@ -27,3 +27,6 @@ var/
 
 # Mac
 .DS_Store
+utils/gs_credentials.json
+credentials/service_account.json
+service_account.json
