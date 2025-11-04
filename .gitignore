@@ -1,5 +1,29 @@
-utils/gs_credentials.json
-credentials/service_account.json
-utils/gs_credentials.json
-credentials/service_account.json
-*.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
