@@ -21,6 +21,9 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+Output/
+logs.txt
+run_streamlit.sh
 
 # VSCode
 .vscode/
