@@ -85,4 +85,3 @@ Use your own Google Service Account credentials for accessing Google Sheets.
 Author: Ihor Mulika
 Email: igor.data.analytics@gmail.com
 GitHub: MulikaDev
-<img width="721" height="723" alt="Dash" src="https://github.com/user-attachments/assets/7447b921-1302-443b-9736-6dc9286b55e0" />
