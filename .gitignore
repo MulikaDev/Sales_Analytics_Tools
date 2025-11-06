@@ -24,6 +24,14 @@ var/
 Output/
 logs.txt
 run_streamlit.sh
+config.py
+logger.py
+credentials/
+Output/
+__pycache__/
+venv_streamlit/
+logs.txt
+run_streamlit.sh
 
 # VSCode
 .vscode/
@@ -32,4 +40,10 @@ run_streamlit.sh
 .DS_Store
 utils/gs_credentials.json
 credentials/service_account.json
-service_account.json
+credentials/config.json
+credentials/
+output/
+__pycache__/
+logs.txt
+__init__ .py
+run_streamlit.sh
