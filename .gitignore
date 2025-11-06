@@ -47,3 +47,6 @@ __pycache__/
 logs.txt
 __init__ .py
 run_streamlit.sh
+__init__ .py
+config.py
+logger.py
