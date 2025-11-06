@@ -50,7 +50,14 @@ streamlit run app.py
 
 Here is a quick preview of the **Sales Analytics Dashboard**:
 
-![Dashboard Preview](output)
+## PDF Report Screenshots
+
+### Dashboard
+![Dashboard Screenshot](screenshots/Dash.png)
+
+### Sales Tools
+![Sales Tools Screenshot](screenshots/Sales Tools.png)
+
 
 *Example of generated PDF dashboard with KPI indicators, charts, and sales summary.*
 
